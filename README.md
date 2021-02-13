@@ -18,7 +18,7 @@ This project also fixed the annotation problem with non-stacked barchart and imp
 
 # Installation
 ```
-Install jupyter notebook (please see https://jupyter.org/install for the details)
+Install R and R studio
 ```
 
 # Required packages
